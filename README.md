@@ -44,7 +44,7 @@ contract MortezaShojaei is IBlockchainEngineer {
 
     // Currently exploring Rust for blockchain development
     function exploreRust() external pure returns (string memory) {
-    //     return "Building the future";
+         return "Building the future";
     // }
 }
 ```
