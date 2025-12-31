@@ -14,10 +14,6 @@
 
 </div>
 
-## <div align="center">⚡ BLOCKCHAIN ENGINEER ⚡</div>
-
-<br>
-
 <br>
 
 ## <div align="center">🌐 CONNECT</div>
