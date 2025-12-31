@@ -14,70 +14,9 @@
 
 </div>
 
-```solidity
-// SPDX-License-Identifier: MIT
-pragma solidity ^0.8.17;
-
-interface IBlockchainEngineer {
-    function buildSecureSolutions() external returns (bool);
-    function auditSmartContracts() external view returns (uint256);
-    function optimizeGasCosts() external;
-    function developFullStackDapps() external;
-}
-
-contract MortezaShojaei is IBlockchainEngineer {
-    function buildSecureSolutions() external pure override returns (bool) {
-        return true; // Always prioritizing security
-    }
-
-    function auditSmartContracts() external pure override returns (uint256) {
-        return type(uint256).max; // Maximum attention to detail
-    }
-
-    function optimizeGasCosts() external pure override {
-        // Implements the most efficient patterns
-    }
-
-    function developFullStackDapps() external pure override {
-        // Seamless integration between on-chain and off-chain components
-    }
-
-    // Currently exploring Rust for blockchain development
-    function exploreRust() external pure returns (string memory) {
-         return "Building the future";
-    // }
-}
-```
-
-## <div align="center">⚡ BLOCKCHAIN ENGINEER & FULL STACK DEVELOPER ⚡</div>
+## <div align="center">⚡ BLOCKCHAIN ENGINEER ⚡</div>
 
 <br>
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <h3>💻 TECHNICAL MASTERY</h3>
-      <p><b>Smart Contracts:</b> Solidity, EVM, EIPs/ERCs</p>
-      <p><b>Development:</b> Hardhat, Foundry, Truffle</p>
-      <p><b>Chain Expertise:</b> Interoperability, Bridging Solutions</p>
-      <p><b>Advanced Web3:</b> Account Abstraction, L2s, Zero Knowledge</p>
-      <p><b>Frontend:</b> React, TypeScript, Next.js</p>
-      <p><b>Web3:</b> ethers.js, web3.js, The Graph</p>
-      <p><b>Backend:</b> Node.js, NestJS, RESTful APIs</p>
-      <p><b>DevOps:</b> Git, GitHub Actions, AWS</p>
-    </td>
-    <td align="center" width="50%">
-      <h3>🛠️ CORE COMPETENCIES</h3>
-      <p>✅ Smart Contract Development & Auditing</p>
-      <p>✅ DeFi Protocol Implementation</p>
-      <p>✅ Cross-Chain Solutions</p>
-      <p>✅ Gas Optimization</p>
-      <p>✅ Full-Stack dApp Architecture</p>
-      <p>✅ Cloud Infrastructure & Deployment</p>
-      <p>✅ CI/CD & Version Control</p>
-    </td>
-  </tr>
-</table>
 
 <br>
 
